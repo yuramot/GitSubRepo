@@ -1,0 +1,9 @@
+[submodule "IlsSaaSCommon"]
+	path = IlsSaaSCommon
+	url = ./IlsSaaSCommon
+[submodule "IlsSaaSAStar_Maps"]
+	path = IlsSaaSAStar_Maps
+	url = ./IlsSaaSAStar_Maps
+[submodule "IlsSaaSMonitoring"]
+	path = IlsSaaSMonitoring
+	url = ./IlsSaaSMonitoring
